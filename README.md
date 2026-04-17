@@ -47,7 +47,7 @@ This project is a collaborative effort by a team of 5 engineering students at **
 ---
 
 ## 🔗 Project Resources
-* 📂 **[Full Phase 1 Planning Report](./Doucumentation/UMS_Report_Phase1.pdf)**
+* 📂 **[Full Phase 1 Planning Report](./Documentation/UMS_Report_Phase1.pdf)**
 * 🎯 **[Jira Scrum Workspace](https://agileswproject.atlassian.net/jira/software/c/projects/UMS/boards/34/backlog?assignee=712020%3A7c5434ed-f54c-482c-ba6d-a968e69b37ed)**
 
 ---
