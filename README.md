@@ -48,7 +48,7 @@ This project is a collaborative effort by a team of 5 engineering students at **
 
 ## 🔗 Project Resources
 * 📂 **[Full Phase 1 Planning Report](./Documentation/Phase1_Report.pdf)**
-* 🎯 **[Jira Scrum Workspace](https://agileswproject.atlassian.net/?continue=https%3A%2F%2Fagileswproject.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10033&atlOrigin=eyJpIjoiMDM4ODg3M2M3ZDMzNDJmMmI3YjQ0ZWUxYjZhZjM4Y2IiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9)**
+* 🎯 **[Jira Scrum Workspace](https://agileswproject.atlassian.net/jira/software/c/projects/UMS/boards/34/backlog?assignee=712020%3A7c5434ed-f54c-482c-ba6d-a968e69b37ed)**
 
 ---
 *Developed as part of the Agile Software Engineering Course (CSE361), Junior Semester 5, 2026.*
