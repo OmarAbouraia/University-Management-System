@@ -35,6 +35,34 @@ The first sprint covers the core "Academic Life Cycle":
 
 ---
 
+## 🖥️ Phase 2: Implementation & Scrum Execution
+Phase 2 involved the full-stack implementation of the platform across two intensive Sprints, moving from planning artifacts to working software.
+
+### 🛠️ Sprint 1: The Core "Academic Life Cycle"
+**Goal:** Establish the core infrastructure where rooms are bookable, staff are reachable, and students can register.
+
+*   **Curriculum:** Implemented **Rule-Based Registration** (GPA-dependent) and automated **Grade Entry/GPA Calculation**.
+*   **Facilities:** Developed **Master Room Scheduling** and student administrative record maintenance.
+*   **Community:** Built a secure **Messaging System** allowing students to contact professors directly with a functional inbox.
+*   **Staff:** Created a searchable **Staff Directory** and managed TA role assignments.
+---
+
+### 📈 Sprint 2: Administrative Expansion
+**Goal:** Expand functionality with maintenance reporting, announcements, and scheduling.
+
+*   **Academic Support:** Added **Add/Drop course functionality** and a centralized **Exam Schedule**.
+*   **Operations:** Implemented **Maintenance Reporting** for facilities and **Admission Application** processing.
+*   **Management:** Enabled **Staff Performance Tracking** and **Leave Request** submissions.
+---
+
+### ✅ Quality Standards (Definition of Done)
+Every feature was verified against a strict **Definition of Done (DoD)**:
+1. Story follows "As a... I want... So that..." structure.
+2. At least 3 testable **Acceptance Criteria (ACs)** defined.
+3. Story Point estimates reached via **Planning Poker**.
+4. Peer review and integration testing (ensuring features don't break adjacent modules).
+---
+
 ## 🤝 The Team
 This project is a collaborative effort by a team of 5 engineering students at **Ain Shams University (ASU)**:
 
@@ -48,6 +76,7 @@ This project is a collaborative effort by a team of 5 engineering students at **
 
 ## 🔗 Project Resources
 * 📂 **[Full Phase 1 Planning Report](./Documentation/UMS_Report_Phase1.pdf)**
+* 📂 **[Full Phase 2 Implementation Report](./Documentation/UMS_Report_Phase2.pdf)**
 * 🎯 **[Jira Scrum Workspace](https://agileswproject.atlassian.net/jira/software/c/projects/UMS/boards/34/backlog?assignee=712020%3A7c5434ed-f54c-482c-ba6d-a968e69b37ed)**
 
 ---
