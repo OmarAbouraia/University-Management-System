@@ -66,11 +66,11 @@ Every feature was verified against a strict **Definition of Done (DoD)**:
 ## 🤝 The Team
 This project is a collaborative effort by a team of 5 engineering students at **Ain Shams University (ASU)**:
 
-* **👨🏻‍💻 Omar Ahmed Abouraia** - Lead: **Curriculum Module**
+* **👨🏻‍💻 Omar Ahmed Abouraia** - Lead: **Curriculum Module & Integration**
 * **👩🏻‍💻 Mariam Ibrahim** - Lead: **Staff Module**
 * **👩🏻‍💻 Mariam Tarek** - Lead: **Community Module**
 * **👨🏻‍💻 Hossam Osama** - Lead: **Facilities Module**
-* **👩🏻‍💻 Lujain Mohamed** - Lead: **Curriculum/Integration**
+* **👩🏻‍💻 Lujain Mohamed** - Lead: **Curriculum**
 
 ---
 
