@@ -3,7 +3,7 @@
 
 [![Jira](https://img.shields.io/badge/Project_Management-Jira-blue?style=flat-square&logo=jirasoftware)](YOUR_JIRA_LINK_HERE)
 [![Process](https://img.shields.io/badge/Methodology-Scrum-orange?style=flat-square)](https://www.scrum.org/)
-[![Status](https://img.shields.io/badge/Phase-2--Done-green?style=flat-square)]()
+[![Status](https://img.shields.io/badge/Phase 2---Done-green?style=flat-square)]()
 
 ## 📖 Project Overview
 This project aims to develop a comprehensive University Management System using the **Scrum framework**. The system is designed to streamline administrative and academic processes, improve communication, and provide a centralized platform for various university stakeholders. The project is divided into four major sections, each representing a distinct product area developed through iterative sprints.
